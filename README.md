@@ -1,11 +1,45 @@
-# 👋 Hey there, I’m Leekhith Nunna (@leekhithnunna)
+# 👋 Hey there, I'm Leekhith Nunna
 
-- 👀 I’m into AI, ML, IoT, and all things tech that make life smarter 🚀
-- 🌱 Currently learning: Full-stack dev, advanced ML models, and how to debug without crying 😅
-- 💞️ Open to collaborate on AI/ML projects, research papers, hackathons, and tech-for-good ideas 💡
-- 📫 Reach me at: [leekhithnunna1269@gmail.com](mailto:leekhithnunna1269@gmail.com) or just slide into my [LinkedIn]([https://www.linkedin.com/in/leekhithnunna/](https://www.linkedin.com/in/leekhith-nunna-454037284/))
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can switch from coding mode to meme-sharing mode real quick 😎
+🎓 **CSE - AI Student @ Amrita School of Computing, Bengaluru (2023–2027)**  
+🧠 Passionate about Machine Learning, AI Research, and Building Smart Systems  
+📍 Currently based in Bengaluru, India
+
+---
+
+## 🚀 What I'm Up To
+- 🔬 Applying ML to diagnose mosquito-borne diseases using gene expression 🧬
+- 💧 Building IoT-based systems like Water Quality Monitoring using Arduino
+- 🖼️ Created an AI-powered **Smart Image Cleanup Tool** that detects blurry/duplicate/old images
+- 🧠 Hosting workshops and mentoring juniors in ML & AI
+
+---
+
+## 💼 Skills
+**Languages:** Python, C, Java, HTML/CSS, MySQL  
+**ML Stack:** scikit-learn, OpenCV, TensorFlow (basic), NLP  
+**Tools:** Google Colab, VS Code, MATLAB, Arduino IDE, Processing IDE  
+**Soft Skills:** Leadership, Team Management, Communication
+
+---
+
+## 💬 Let's Collaborate On
+- ML/AI Projects  
+- IoT Applications  
+- Research Papers  
+- Hackathons (I’m always down 👨‍💻⚡)
+
+---
+
+## 📫 Contact Me
+- 📧 **Email:** [leekhithnunna1269@gmail.com](mailto:leekhithnunna1269@gmail.com)  
+- 📞 **Phone:** +91 81216 91269  
+- 🔗 **LinkedIn:** [linkedin.com/in/leekhithnunna](https://www.linkedin.com/in/leekhith-nunna-454037284/)
+
+---
+
+## ⚡ Fun Fact
+I can switch from coding mode to meme-sharing mode real quick 😎
+how to debug without crying 😅
 
 <!---
 leekhithnunna/leekhithnunna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
