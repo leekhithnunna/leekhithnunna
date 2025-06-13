@@ -38,7 +38,7 @@
 ---
 
 ## ⚡ Fun Fact
-I can switch from coding mode to meme-sharing mode real quick 😎
+I can switch from coding mode to meme-sharing mode real quick 😎 and 
 how to debug without crying 😅
 
 <!---
