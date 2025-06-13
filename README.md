@@ -10,7 +10,6 @@
 - 🔬 Applying ML to diagnose mosquito-borne diseases using gene expression 🧬
 - 💧 Building IoT-based systems like Water Quality Monitoring using Arduino
 - 🖼️ Created an AI-powered **Smart Image Cleanup Tool** that detects blurry/duplicate/old images
-- 🧠 Hosting workshops and mentoring juniors in ML & AI
 
 ---
 
