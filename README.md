@@ -1,46 +1,178 @@
-# 👋 Hey there, I'm Leekhith Nunna
+# 👋 Hi, I'm Leekhith Nunna
 
-🎓 **CSE - AI Student @ Amrita School of Computing, Bengaluru (2023–2027)**  
-🧠 Passionate about Machine Learning, AI Research, and Building Smart Systems  
-📍 Currently based in Bengaluru, India
-
----
-
-## 🚀 What I'm Up To
-- 🔬 Applying ML to diagnose mosquito-borne diseases using gene expression 🧬
-- 💧 Building IoT-based systems like Water Quality Monitoring using Arduino
-- 🖼️ Created an AI-powered **Smart Image Cleanup Tool** that detects blurry/duplicate/old images
+🎓 **B.Tech Computer Science (Artificial Intelligence)**
+📍 Amrita School of Computing, Bengaluru (2023–2027)
+🔬 AI Research Enthusiast | NLP & Computer Vision Developer | Hackathon Participant
 
 ---
 
-## 💼 Skills
-**Languages:** Python, C, Java, HTML/CSS, MySQL  
-**ML Stack:** scikit-learn, OpenCV, TensorFlow (basic), NLP  
-**Tools:** Google Colab, VS Code, MATLAB, Arduino IDE, Processing IDE  
-**Soft Skills:** Leadership, Team Management, Communication
+## 🚀 About Me
+
+I'm an undergraduate AI student passionate about building intelligent systems that solve real-world problems using Machine Learning, Natural Language Processing, Computer Vision, and Speech Technologies.
+
+I enjoy working on research-oriented projects, publishing papers, participating in hackathons, and exploring emerging AI applications across healthcare, education, and digital wellness.
 
 ---
 
-## 💬 Let's Collaborate On
-- ML/AI Projects  
-- IoT Applications  
-- Research Papers  
-- Hackathons (I’m always down 👨‍💻⚡)
+## 🔬 Current Focus Areas
+
+* Natural Language Processing (NLP)
+* Machine Learning & Deep Learning
+* Computer Vision
+* Speech Processing
+* Explainable AI (XAI)
+* Multimodal AI Systems
+* Research & Scientific Publications
 
 ---
 
-## 📫 Contact Me
-- 📧 **Email:** [leekhithnunna1269@gmail.com](mailto:leekhithnunna1269@gmail.com)  
-- 📞 **Phone:** +91 81216 91269  
-- 🔗 **LinkedIn:** [linkedin.com/in/leekhithnunna](https://www.linkedin.com/in/leekhith-nunna-454037284/)
+## 🏆 Achievements
+
+🥉 **3rd Place – ALGOMANIA 3.0 Hackathon**
+
+📄 Presented research work at:
+
+* IEEE Conferences
+* Springer Conferences
+* ICAISS 2026
+* IC4S
+* IJCACI
+
+🎯 AI Mentorship Internship – Teachnook
+
+☁️ Google Cloud Career Launchpad – Cybersecurity Track
+
+⭐ HackerRank 5-Star Problem Solving
+
+🐍 HackerRank Python Certified
+
+🚀 DevOps Bootcamp – Git & CI/CD
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+* Python
+* Java
+* C
+* HTML
+* CSS
+* MySQL
+
+### Artificial Intelligence & Machine Learning
+
+* Scikit-Learn
+* OpenCV
+* NLP
+* Computer Vision
+* TensorFlow (Basics)
+* Feature Engineering
+* Data Preprocessing
+
+### Tools & Platforms
+
+* Google Colab
+* VS Code
+* Git & GitHub
+* MATLAB
+* Arduino IDE
+* Processing IDE
+
+---
+
+## 📌 Featured Projects
+
+### 🖼️ Smart Image Cleanup Tool
+
+AI-powered image management system that automatically identifies:
+
+* Blurry images
+* Duplicate images
+* Outdated images
+
+Built using Python and Computer Vision techniques.
+
+---
+
+### 🌸 CycleSync+ – Personalized Digital Wellness System
+
+Full-stack wellness platform built using:
+
+* React.js
+* Node.js
+* MongoDB
+
+Features:
+
+* Menstrual cycle phase prediction
+* Personalized wellness recommendations
+* Explainable rule-based intelligence
+* Trend analytics dashboard
+
+📄 Presented at ICAISS 2026.
+
+---
+
+### 🎙️ Code-Mixed Telugu Viva Response Classification
+
+Multimodal AI project combining:
+
+* NLP
+* Speech Processing
+* Deep Learning
+
+Classifies Telugu-English code-switched viva responses into:
+
+* Correct
+* Incorrect
+* Partially Correct
+
+---
+
+### 🌐 Multilingual Fake Review Detection
+
+Machine Learning system designed to detect deceptive reviews across multiple languages using:
+
+* NLP embeddings
+* Feature engineering
+* Ensemble learning models
+
+---
+
+## 📚 Research Interests
+
+* Artificial Intelligence
+* Natural Language Processing
+* Speech Processing
+* Computer Vision
+* Educational Technology
+* Healthcare AI
+* Explainable AI
+
+---
+
+## 🤝 Open to Collaborate On
+
+* AI/ML Projects
+* Research Papers
+* Hackathons
+* NLP Applications
+* Computer Vision Solutions
+* Open Source Contributions
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[leekhithnunna@gmail.com](mailto:leekhithnunna@gmail.com)**
+
+💼 LinkedIn:
+[www.linkedin.com/in/leekhith-nunna-454037284](http://www.linkedin.com/in/leekhith-nunna-454037284)
 
 ---
 
 ## ⚡ Fun Fact
-I can switch from coding mode to meme-sharing mode real quick 😎 and 
-how to debug without crying 😅
 
-<!---
-leekhithnunna/leekhithnunna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy turning research ideas into working prototypes, whether it's an NLP model, a computer vision application, or a full-stack AI system.
