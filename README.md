@@ -10,7 +10,7 @@
 
 I'm an undergraduate AI student passionate about building intelligent systems that solve real-world problems using Machine Learning, Natural Language Processing, Computer Vision, and Speech Technologies.
 
-I enjoy working on research-oriented projects, publishing papers, participating in hackathons, and exploring emerging AI applications across healthcare, education, and digital wellness.
+I enjoy working on research-oriented projects, publishing papers, participating in hackathons, and exploring emerging AI applications across healthcare, education, digital wellness, and smart city solutions.
 
 ---
 
@@ -30,23 +30,33 @@ I enjoy working on research-oriented projects, publishing papers, participating 
 
 🥉 **3rd Place – ALGOMANIA 3.0 Hackathon**
 
-📄 Presented research work at:
+🎯 **AI Mentorship Internship – Teachnook**
 
-* IEEE Conferences
-* Springer Conferences
-* ICAISS 2026
-* IC4S
-* IJCACI
+☁️ **Google Cloud Career Launchpad – Cybersecurity Track**
 
-🎯 AI Mentorship Internship – Teachnook
+⭐ **HackerRank 5-Star Problem Solving**
 
-☁️ Google Cloud Career Launchpad – Cybersecurity Track
+🐍 **HackerRank Python Certified**
 
-⭐ HackerRank 5-Star Problem Solving
+🚀 **DevOps Bootcamp – Git & CI/CD**
 
-🐍 HackerRank Python Certified
+---
 
-🚀 DevOps Bootcamp – Git & CI/CD
+## 📄 Research Publications & Conference Presentations
+
+📊 **Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring** — Presented at **IJCACI**
+
+💧 **INSPECT: ****Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning** — Presented at **INSPECT Conference**
+
+🖼️ **Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management** — Presented at **IC4S**
+
+🌸 **CycleSync+ : Personalized Digital Wellness System** — Presented at **ICAISS 2026**
+
+🧠 **Smooth Adaptive Synthetic Sampling Approach for Improving Naive Bayes-Based Airline Service Sentiment Classification**** Research** — Presented at **CML Conference**
+
+🤖 **Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses** — Research at **IEEE CONECCT**
+
+🏙️ **Large-Scale Waste Generation Prediction using Distributed Machine Learning in Apache Spark for Smart City Analytics** — Research at **AIC Conference**
 
 ---
 
