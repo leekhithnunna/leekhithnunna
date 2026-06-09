@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Leekhith Nunna
 
-🎓 **B.Tech Computer Science (Artificial Intelligence)**
-📍 Amrita School of Computing, Bengaluru (2023–2027)
-🔬 AI Research Enthusiast | NLP & Computer Vision Developer | Hackathon Participant
+🎓 B.Tech Computer Science (Artificial Intelligence) @ Amrita School of Computing, Bengaluru (2023–2027)
+
+🔬 AI Research Enthusiast | NLP & Speech Processing | Computer Vision | Machine Learning
+
+📫 **Email:** [leekhithnunna@gmail.com](mailto:leekhithnunna@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/leekhith-nunna-454037284
 
 ---
 
@@ -10,111 +13,70 @@
 
 I'm an undergraduate AI student passionate about building intelligent systems that solve real-world problems using Machine Learning, Natural Language Processing, Computer Vision, and Speech Technologies.
 
-I enjoy working on research-oriented projects, publishing papers, participating in hackathons, and exploring emerging AI applications across healthcare, education, digital wellness, and smart city solutions.
+My interests span research, applied AI development, and intelligent decision-support systems across healthcare, education, digital wellness, and smart-city applications.
 
 ---
 
-## 🔬 Current Focus Areas
+## 🔬 Research Areas
 
 * Natural Language Processing (NLP)
+* Speech Processing
 * Machine Learning & Deep Learning
 * Computer Vision
-* Speech Processing
 * Explainable AI (XAI)
-* Multimodal AI Systems
-* Research & Scientific Publications
+* Multimodal Learning
+* Educational AI
+* Healthcare AI
 
 ---
 
 ## 🏆 Achievements
 
-🥉 **3rd Place – ALGOMANIA 3.0 Hackathon**
-
-🎯 **AI Mentorship Internship – Teachnook**
-
-☁️ **Google Cloud Career Launchpad – Cybersecurity Track**
-
-⭐ **HackerRank 5-Star Problem Solving**
-
-🐍 **HackerRank Python Certified**
-
-🚀 **DevOps Bootcamp – Git & CI/CD**
+* 🥉 3rd Place — ALGOMANIA 3.0 Hackathon
+* 🎯 AI Mentorship Internship — Teachnook
+* ☁️ Google Cloud Career Launchpad — Cybersecurity Track
+* ⭐ HackerRank 5-Star Problem Solving
+* 🐍 HackerRank Python Certified
+* 🚀 DevOps Bootcamp — Git & CI/CD
+* 👩‍💻 ACM-W Member
 
 ---
 
 ## 📄 Research Publications & Conference Presentations
 
-📊 **Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring** — Presented at **IJCACI**
-
-💧 **INSPECT: ****Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning** — Presented at **INSPECT Conference**
-
-🖼️ **Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management** — Presented at **IC4S**
-
-🌸 **CycleSync+ : Personalized Digital Wellness System** — Presented at **ICAISS 2026**
-
-🧠 **Smooth Adaptive Synthetic Sampling Approach for Improving Naive Bayes-Based Airline Service Sentiment Classification**** Research** — Presented at **CML Conference**
-
-🤖 **Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses** — Research at **IEEE CONECCT**
-
-🏙️ **Large-Scale Waste Generation Prediction using Distributed Machine Learning in Apache Spark for Smart City Analytics** — Research at **AIC Conference**
+* 📊 Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring — **IJCACI**
+* 💧 INSPECT: Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning — **INSPECT**
+* 🖼️ Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management — **IC4S**
+* 🌸 CycleSync+: Personalized Digital Wellness System — **ICAISS 2026**
+* 🧠 Smooth Adaptive Synthetic Sampling Approach for Improving Naive Bayes-Based Airline Service Sentiment Classification — **CML**
+* 🤖 Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses — **IEEE CONECCT**
+* 🏙️ Large-Scale Waste Generation Prediction using Distributed Machine Learning in Apache Spark for Smart City Analytics — **AIC**
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### Languages
 
-* Python
-* Java
-* C
-* HTML
-* CSS
-* MySQL
+Python • Java • C • HTML • CSS • MySQL
 
-### Artificial Intelligence & Machine Learning
+### AI & Machine Learning
 
-* Scikit-Learn
-* OpenCV
-* NLP
-* Computer Vision
-* TensorFlow (Basics)
-* Feature Engineering
-* Data Preprocessing
+Scikit-Learn • OpenCV • NLP • Deep Learning • Computer Vision • TensorFlow • Feature Engineering • Data Preprocessing
 
 ### Tools & Platforms
 
-* Google Colab
-* VS Code
-* Git & GitHub
-* MATLAB
-* Arduino IDE
-* Processing IDE
+Git • GitHub • VS Code • Google Colab • MATLAB • Arduino IDE • Processing IDE
 
 ---
 
 ## 📌 Featured Projects
 
-### 🖼️ Smart Image Cleanup Tool
+### 🌸 [CycleSync+ – Personalized Digital Wellness System](https://github.com/leekhithnunna/cyclesync-plus)
 
-AI-powered image management system that automatically identifies:
+Full-stack wellness platform built using React.js, Node.js, and MongoDB.
 
-* Blurry images
-* Duplicate images
-* Outdated images
-
-Built using Python and Computer Vision techniques.
-
----
-
-### 🌸 CycleSync+ – Personalized Digital Wellness System
-
-Full-stack wellness platform built using:
-
-* React.js
-* Node.js
-* MongoDB
-
-Features:
+**Highlights**
 
 * Menstrual cycle phase prediction
 * Personalized wellness recommendations
@@ -127,62 +89,62 @@ Features:
 
 ### 🎙️ Code-Mixed Telugu Viva Response Classification
 
-Multimodal AI project combining:
+Multimodal deep learning system for evaluating Telugu-English code-mixed viva responses.
 
-* NLP
-* Speech Processing
-* Deep Learning
+**Highlights**
 
-Classifies Telugu-English code-switched viva responses into:
+* Combines speech and text features
+* Transformer-based semantic evaluation
+* Multimodal fusion architecture
+* AI-assisted academic assessment
 
-* Correct
-* Incorrect
-* Partially Correct
+📄 Proceedings at IEEE CONECCT.
 
 ---
 
 ### 🌐 Multilingual Fake Review Detection
 
-Machine Learning system designed to detect deceptive reviews across multiple languages using:
+Machine Learning system for identifying deceptive reviews across English, Telugu, and Malayalam.
 
-* NLP embeddings
-* Feature engineering
-* Ensemble learning models
+**Highlights**
+
+* BERT, LASER, and FastText embeddings
+* PCA-based feature optimization
+* Ensemble and stacking classifiers
+* Cross-lingual fake review detection
+
+---
+
+### 🖼️ [Smart Image Cleanup Tool](https://github.com/leekhithnunna/Smart-Image-Cleanup-Tool-using-Mesa-and-Simulation)
+
+Computer vision system for automated image management.
+
+**Highlights**
+
+* Blur detection
+* Duplicate image identification
+* Outdated image filtering
+* Mesa-based simulation framework
 
 ---
 
 ## 📚 Research Interests
 
-* Artificial Intelligence
-* Natural Language Processing
-* Speech Processing
-* Computer Vision
-* Educational Technology
-* Healthcare AI
-* Explainable AI
+Artificial Intelligence • NLP • Speech Processing • Computer Vision • Educational Technology • Healthcare AI • Explainable AI
 
 ---
 
 ## 🤝 Open to Collaborate On
 
 * AI/ML Projects
-* Research Papers
-* Hackathons
+* Research Publications
 * NLP Applications
+* Speech Processing Systems
 * Computer Vision Solutions
-* Open Source Contributions
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[leekhithnunna@gmail.com](mailto:leekhithnunna@gmail.com)**
-
-💼 LinkedIn:
-[www.linkedin.com/in/leekhith-nunna-454037284](http://www.linkedin.com/in/leekhith-nunna-454037284)
+* Hackathons & Open Source
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning research ideas into working prototypes, whether it's an NLP model, a computer vision application, or a full-stack AI system.
+I enjoy transforming research ideas into practical AI systems—from multimodal learning pipelines and NLP models to full-stack intelligent applications.
