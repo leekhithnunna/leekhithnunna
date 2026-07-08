@@ -52,7 +52,6 @@ My interests span research, applied AI development, and intelligent decision-sup
 * 🌸 CycleSync+: Personalized Digital Wellness System — **ICAISS 2026**
 * 🧠 Smooth Adaptive Synthetic Sampling Approach for Improving Naive Bayes-Based Airline Service Sentiment Classification — **CML**
 * 🤖 Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses — **IEEE CONECCT**
-* 🏙️ Large-Scale Waste Generation Prediction using Distributed Machine Learning in Apache Spark for Smart City Analytics — **AIC**
 
 ---
 
