@@ -1,188 +1,282 @@
-# 👋 Hi, I'm Leekhith Nunna
+<div align="center">
 
-🎓 B.Tech Computer Science (Artificial Intelligence) @ Amrita School of Computing, Bengaluru (2023–2027)
+# Hi, I'm Leekhith Nunna 👋
 
-🔬 AI Research Enthusiast | NLP & Speech Processing | Computer Vision | Machine Learning | Full-Stack AI Systems
+### AI/ML Engineer • NLP & Speech Processing • Computer Vision • Research
 
-📫 **Email:** [leekhithnunna@gmail.com](mailto:leekhithnunna@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/leekhith-nunna-454037284
-🐙 **GitHub:** [leekhithnunna](https://github.com/leekhithnunna)
+<a href="https://www.linkedin.com/in/leekhith-nunna-454037284">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%40+Amrita+School+of+Computing;NLP+%7C+Speech+Processing+%7C+Computer+Vision;6%2B+Research+Publications+%26+Conference+Papers;Building+Full-Stack+Intelligent+Systems" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<a href="mailto:leekhithnunna@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/leekhith-nunna-454037284">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/leekhithnunna">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/leekhithnunna?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+</a>
 
-I'm an undergraduate AI student passionate about building intelligent systems that solve real-world problems using Machine Learning, Natural Language Processing, Computer Vision, and Speech Technologies.
+<br/><br/>
 
-My interests span research, applied AI development, and intelligent decision-support systems across healthcare, education, finance, digital wellness, agriculture, and smart-city applications.
+<img src="https://komarev.com/ghpvc/?username=leekhithnunna&label=Profile%20Views&color=6366F1&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/leekhithnunna?label=Followers&style=flat&color=6366F1" alt="Followers"/>
 
----
+</div>
 
-## 🔬 Research Areas
+<br/>
 
-* Natural Language Processing (NLP)
-* Speech Processing
-* Machine Learning & Deep Learning
-* Computer Vision
-* Explainable AI (XAI)
-* Multimodal Learning
-* Educational AI
-* Healthcare AI
-* MLOps & Distributed Machine Learning
+<div align="center">
 
----
+### Quick Navigation
 
-## 🏆 Achievements
+[![About](https://img.shields.io/badge/About-111827?style=for-the-badge)](#about-me)
+[![Research](https://img.shields.io/badge/Research-111827?style=for-the-badge)](#research-areas)
+[![Publications](https://img.shields.io/badge/Publications-111827?style=for-the-badge)](#publications--conference-presentations)
+[![Skills](https://img.shields.io/badge/Skills-111827?style=for-the-badge)](#technical-skills)
+[![Projects](https://img.shields.io/badge/Projects-111827?style=for-the-badge)](#featured-projects)
+[![Stats](https://img.shields.io/badge/GitHub%20Stats-111827?style=for-the-badge)](#github-stats)
+[![Contact](https://img.shields.io/badge/Contact-111827?style=for-the-badge)](#lets-connect)
 
-* 🥉 3rd Place — ALGOMANIA 3.0 Hackathon
-* 🎯 AI Mentorship Internship — Teachnook
-* ☁️ Google Cloud Career Launchpad — Cybersecurity Track
-* ⭐ HackerRank 5-Star Problem Solving
-* 🐍 HackerRank Python Certified
-* 🚀 DevOps Bootcamp — Git & CI/CD
-* 👩‍💻 ACM-W Member
+</div>
 
----
+<br/>
 
-## 📄 Research Publications & Conference Presentations
+## About Me
 
-* 📊 Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring — **IJCACI**
-* 💧 INSPECT: Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning — **INSPECT**
-* 🖼️ Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management — **IC4S**
-* 🌸 CycleSync+: Personalized Digital Wellness System — **ICAISS 2026**
-* 🧠 Smooth Adaptive Synthetic Sampling Approach for Improving Naive Bayes-Based Airline Service Sentiment Classification — **CML**
-* 🤖 Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses — **IEEE CONECCT**
+I'm an undergraduate AI student building intelligent systems that solve real-world problems with Machine Learning, NLP, Computer Vision, and Speech Technologies. My work spans research, applied AI development, and decision-support systems across healthcare, education, finance, digital wellness, agriculture, and smart-city applications.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💻 Technical Skills
+**🎓 Education**
+B.Tech Computer Science (Artificial Intelligence)
+Amrita School of Computing, Bengaluru
+2023 – 2027
 
-### Languages
-Python • Java • C • TypeScript • JavaScript • HTML • CSS • MySQL
+</td>
+<td width="50%" valign="top">
 
-### AI & Machine Learning
-Scikit-Learn • TensorFlow • OpenCV • NLP • Deep Learning • Computer Vision • Vision Transformers • CVAE • Feature Engineering • Data Preprocessing • Apache Spark (Distributed ML)
+**🏆 Achievements**
+🥉 3rd Place — ALGOMANIA 3.0 Hackathon
+🎯 AI Mentorship Internship — Teachnook
+☁️ Google Cloud Career Launchpad — Cybersecurity
+⭐ HackerRank 5-Star Problem Solving
+🐍 HackerRank Python Certified
+🚀 DevOps Bootcamp — Git & CI/CD
+👩‍💻 ACM-W Member
 
-### Frameworks & Libraries
-React.js • Node.js • MongoDB • Streamlit • LangChain • Gradio
+</td>
+</tr>
+</table>
 
-### Tools & Platforms
-Git • GitHub • VS Code • Google Colab • MATLAB • Arduino IDE • Processing IDE
+<br/>
 
-### Soft Skills
-Communication • Team Management • Leadership
+## Research Areas
 
----
+<div align="center">
 
-## 📌 Featured Projects
+`Natural Language Processing` &nbsp;•&nbsp; `Speech Processing` &nbsp;•&nbsp; `Machine Learning & Deep Learning` &nbsp;•&nbsp; `Computer Vision`
+`Explainable AI (XAI)` &nbsp;•&nbsp; `Multimodal Learning` &nbsp;•&nbsp; `Educational AI` &nbsp;•&nbsp; `Healthcare AI` &nbsp;•&nbsp; `MLOps & Distributed ML`
 
-### 🌸 [CycleSync+ – Personalized Digital Wellness System](https://github.com/leekhithnunna/cyclesync-plus)
-Full-stack wellness platform built using React.js, Node.js, and MongoDB.
-**Highlights:** Menstrual cycle phase prediction • Personalized wellness recommendations • Explainable rule-based intelligence • Trend analytics dashboard
-📄 Presented at ICAISS 2026.
+</div>
 
-### 🏥 [HealthConnect AI](https://github.com/leekhithnunna/healthconnect-ai)
-AI-powered healthcare support and volunteer coordination platform.
-**Highlights:** Healthcare support workflows • Volunteer coordination • AI-driven assistance
+<br/>
 
-### 💬 [TalkBook](https://github.com/leekhithnunna/TalkBook)
-AI-powered booking assistant built with Streamlit, LangChain, and Groq LLM.
-**Highlights:** Natural conversational booking • PDF upload & querying • End-to-end appointment management
+## Publications & Conference Presentations
 
-### 📈 [Trade.ai](https://github.com/leekhithnunna/Trade.ai)
-Crypto trading analytics platform leveraging Fear & Greed Index sentiment data.
-**Highlights:** Analysis of 200K+ trades • Profitability & position-sizing analysis • Trading activity assessment • EDA and data cleaning pipelines
+| Title | Venue |
+|---|---|
+| 📊 Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring | **IJCACI** |
+| 💧 INSPECT: Smart Water Surveillance System for Critical Points in Food Industry Using IoT and ML | **INSPECT** |
+| 🖼️ Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management | **IC4S** |
+| 🌸 CycleSync+: Personalized Digital Wellness System | **ICAISS 2026** |
+| 🧠 Smooth Adaptive Synthetic Sampling for Naive Bayes-Based Airline Service Sentiment Classification | **CML** |
+| 🤖 Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses | **IEEE CONECCT** |
 
-### ⚙️ [Trading Signal MLOps Pipeline](https://github.com/leekhithnunna/trading-signal-mlops-pipeline)
-ML/MLOps batch pipeline for trading signal generation using a rolling mean strategy.
-**Highlights:** Deterministic execution • YAML-based configuration • Structured logging • Metrics tracking & validation
+<br/>
 
-### ♻️ [Waste Management System](https://github.com/leekhithnunna/waste_managment_system)
-Apache Spark-based distributed machine learning system for smart city waste prediction.
-**Highlights:** 263K+ record dataset with weather and urban features • Feature engineering • Linear regression modeling at scale
+## Technical Skills
 
-### 🎙️ Code-Mixed Telugu Viva Response Classification
-Multimodal deep learning system for evaluating Telugu-English code-mixed viva responses.
-**Highlights:** Combines speech and text features • Transformer-based semantic evaluation • Multimodal fusion architecture • AI-assisted academic assessment
-📄 Proceedings at IEEE CONECCT.
+<div align="center">
 
-### 🌐 Multilingual Fake Review Detection
-Machine Learning system for identifying deceptive reviews across English, Telugu, and Malayalam.
-**Highlights:** BERT, LASER, and FastText embeddings • PCA-based feature optimization • Ensemble and stacking classifiers • Cross-lingual detection
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,java,c,ts,js,html,css,mysql" />
 
-### 🖼️ [Smart Image Cleanup Tool](https://github.com/leekhithnunna/Smart-Image-Cleanup-Tool-using-Mesa-and-Simulation)
-Computer vision system for automated image management.
-**Highlights:** Blur detection • Duplicate & perceptual hashing • Outdated image filtering • Mesa-based simulation framework
-📄 Presented at IC4S.
+**AI & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+<img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Vision%20Transformers-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
-### 🥥 [From Handcrafted Features to Vision Transformers — Coconut Leaf Disease Classification](https://github.com/leekhithnunna/From-Handcrafted-Features-to-Vision-Transformers-A-Study-on-Coconut-Leaf-Disease-Classification)
-Comprehensive study on automated coconut leaf disease classification.
-**Highlights:** Diverse ML, deep learning, and transformer-based models compared for real-world agricultural diagnostics
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square"/>
 
-### 🎮 [Rock-Paper-Scissors Game using MobileNetV2 & Gradio](https://github.com/leekhithnunna/Rock-Paper-Scissors-Game-using-MobileNetV2-Gradio-GUI)
-Real-time gesture-based game against an AI opponent.
-**Highlights:** Trained CNN (MobileNetV2) for hand-gesture classification • Interactive Gradio GUI
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,arduino" />
 
-### 🧬 [PersonaSynth — CVAE-Based Personality Profile Generator](https://github.com/leekhithnunna/PersonaSynth---CVAE-Based-Personality-Profile-Generator)
-AI-powered synthetic data generator for personality traits using a Conditional Variational Autoencoder (CVAE).
+</div>
 
-### 📊 [An Interactive MATLAB GUI for Regional Risk Assessment](https://github.com/leekhithnunna/An-Interactive-MATLAB-GUI-for-Regional-Risk-Assessment-Using-ML-and-UMAP)
-MATLAB-based interactive GUI using standardization, UMAP, and clustering to predict regional climate adaptation capacity.
+<br/>
 
-### 🐦 [Twitter Rumour Verification](https://github.com/leekhithnunna/Twitter_15_16_Rumour_Verification)
-Machine learning project for detecting and classifying rumours in Twitter data.
-**Highlights:** 11 different classification models compared for rumour verification tasks
+## Featured Projects
 
-### ✈️ [Probabilistic Naive Bayes on Skytrax Reviews](https://github.com/leekhithnunna/Probabilistic-Naive-Bayes-on-Skytrax-Reviews)
-Full probabilistic Naive Bayes sentiment classification system for airline industry reviews.
-**Highlights:** Built across four real-world airline, airport, lounge, and seat datasets
+<table>
+<tr>
+<td width="50%">
 
-### 🧠 [AI_Spend](https://github.com/leekhithnunna/AI_Spend)
-AI-powered spending/finance tracking application built with TypeScript.
+**🌸 [CycleSync+](https://github.com/leekhithnunna/cyclesync-plus)**
+Personalized Digital Wellness System — full-stack (React, Node.js, MongoDB) with cycle-phase prediction, personalized recommendations, and a trend analytics dashboard.
+📄 Presented at ICAISS 2026
 
-### 📊 [Optimind](https://github.com/leekhithnunna/Optimind)
-AI-powered performance tracking and adaptive optimization tool. *(Forked & extended)*
+</td>
+<td width="50%">
 
-### 🧬 [GSE110496 Datasets](https://github.com/leekhithnunna/GSE110496_Datasets)
-Machine learning system classifying Zika and Dengue infections using single-cell RNA sequencing data for public health management.
+**🏥 [HealthConnect AI](https://github.com/leekhithnunna/healthconnect-ai)**
+AI-powered healthcare support and volunteer coordination platform with automated assistance workflows.
 
-### 📝 [MiniNotepadPlus-FileCompressor](https://github.com/leekhithnunna/MiniNotepadPlus-FileCompressor)
-A lightweight Java-based notepad application with integrated file compression, tabbed text editing, and file saving.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🏧 [ATM-Functionality-C](https://github.com/leekhithnunna/ATM-Functionality-C)
-A C program simulating basic ATM machine functioning with multi-language support (English and Hindi).
+**💬 [TalkBook](https://github.com/leekhithnunna/TalkBook)**
+Conversational booking assistant built with Streamlit, LangChain, and Groq LLM — supports PDF upload/querying and end-to-end appointment management.
 
-### 🛠️ [SKILLSPHERE](https://github.com/leekhithnunna/SKILLSPHERE)
-A JavaScript-based project focused on skills tracking/showcasing.
+</td>
+<td width="50%">
 
-### 🎓 Amigos Task Series
-Coursework/practice repositories: [inamigos-task1](https://github.com/leekhithnunna/inamigos-task1) • [inamigos-task2](https://github.com/leekhithnunna/inamigos-task2) • [inamigos-task3](https://github.com/leekhithnunna/inamigos-task3) • [inamigos-task4](https://github.com/leekhithnunna/inamigos-task4)
+**📈 [Trade.ai](https://github.com/leekhithnunna/Trade.ai)**
+Crypto trading analytics platform analyzing 200K+ trades against Fear & Greed Index sentiment data for profitability and position-sizing insight.
 
-### 🧩 [Guruvai SE Assignment](https://github.com/leekhithnunna/guruvai-se-assignment)
-Solutions for LRU Cache and Event Scheduler problems with Python implementations, test cases, and complexity analysis.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🔗 [REST API CRUD Example](https://github.com/leekhithnunna/rest-api-crud-example)
-A Java-based REST API CRUD example project. *(Forked)*
+**⚙️ [Trading Signal MLOps Pipeline](https://github.com/leekhithnunna/trading-signal-mlops-pipeline)**
+Deterministic ML/MLOps batch pipeline for trading signal generation with YAML config, structured logging, and metrics validation.
 
----
+</td>
+<td width="50%">
 
-## 📚 Research Interests
+**♻️ [Waste Management System](https://github.com/leekhithnunna/waste_managment_system)**
+Apache Spark distributed ML system for smart-city waste prediction over 263K+ records with weather and urban features.
 
-Artificial Intelligence • NLP • Speech Processing • Computer Vision • Educational Technology • Healthcare AI • Explainable AI • IoT Systems
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+**🎙️ Code-Mixed Telugu Viva Response Classification**
+Multimodal transformer system fusing speech and text features for semantic evaluation of Telugu-English viva responses.
+📄 IEEE CONECCT
 
-## 🤝 Open to Collaborate On
+</td>
+<td width="50%">
 
-* AI/ML Projects
-* Research Publications
-* NLP Applications
-* Speech Processing Systems
-* Computer Vision Solutions
-* Hackathons & Open Source
+**🌐 Multilingual Fake Review Detection**
+Detects deceptive reviews across English, Telugu, and Malayalam using BERT/LASER/FastText embeddings, PCA, and ensemble stacking.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## ⚡ Fun Fact
+**🖼️ [Smart Image Cleanup Tool](https://github.com/leekhithnunna/Smart-Image-Cleanup-Tool-using-Mesa-and-Simulation)**
+Automated image management via blur detection, duplicate/perceptual hashing, and outdated-image filtering with a Mesa-based simulation framework.
+📄 IC4S
 
-I enjoy transforming research ideas into practical AI systems—from multimodal learning pipelines and NLP models to full-stack intelligent applications.
+</td>
+<td width="50%">
+
+**🥥 [Coconut Leaf Disease Classification](https://github.com/leekhithnunna/From-Handcrafted-Features-to-Vision-Transformers-A-Study-on-Coconut-Leaf-Disease-Classification)**
+Comparative study from handcrafted features to Vision Transformers for agricultural disease diagnostics.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎮 [Rock-Paper-Scissors — MobileNetV2 & Gradio](https://github.com/leekhithnunna/Rock-Paper-Scissors-Game-using-MobileNetV2-Gradio-GUI)**
+Real-time gesture-based game using a MobileNetV2 CNN for hand-gesture classification with an interactive Gradio GUI.
+
+</td>
+<td width="50%">
+
+**🧬 [PersonaSynth](https://github.com/leekhithnunna/PersonaSynth---CVAE-Based-Personality-Profile-Generator)**
+Synthetic personality-trait data generator built on a Conditional Variational Autoencoder (CVAE).
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| 📊 [MATLAB GUI for Regional Risk Assessment](https://github.com/leekhithnunna/An-Interactive-MATLAB-GUI-for-Regional-Risk-Assessment-Using-ML-and-UMAP) | Interactive GUI using standardization, UMAP, and clustering to predict regional climate adaptation capacity |
+| 🐦 [Twitter Rumour Verification](https://github.com/leekhithnunna/Twitter_15_16_Rumour_Verification) | 11 classification models compared for rumour detection on Twitter data |
+| ✈️ [Probabilistic Naive Bayes on Skytrax Reviews](https://github.com/leekhithnunna/Probabilistic-Naive-Bayes-on-Skytrax-Reviews) | Sentiment classification across four real-world airline, airport, lounge, and seat datasets |
+| 🧠 [AI_Spend](https://github.com/leekhithnunna/AI_Spend) | AI-powered spending/finance tracker built with TypeScript |
+| 📊 [Optimind](https://github.com/leekhithnunna/Optimind) | AI-powered performance tracking and adaptive optimization tool *(forked & extended)* |
+| 🧬 [GSE110496 Datasets](https://github.com/leekhithnunna/GSE110496_Datasets) | Classifies Zika and Dengue infections from single-cell RNA sequencing data |
+| 📝 [MiniNotepadPlus-FileCompressor](https://github.com/leekhithnunna/MiniNotepadPlus-FileCompressor) | Java notepad app with integrated file compression and tabbed editing |
+| 🏧 [ATM-Functionality-C](https://github.com/leekhithnunna/ATM-Functionality-C) | C-based ATM simulation with English/Hindi language support |
+| 🛠️ [SKILLSPHERE](https://github.com/leekhithnunna/SKILLSPHERE) | JavaScript project for skills tracking/showcasing |
+| 🧩 [Guruvai SE Assignment](https://github.com/leekhithnunna/guruvai-se-assignment) | LRU Cache and Event Scheduler solutions with tests and complexity analysis |
+| 🔗 [REST API CRUD Example](https://github.com/leekhithnunna/rest-api-crud-example) | Java REST API CRUD example *(forked)* |
+| 🎓 Amigos Task Series | [Task 1](https://github.com/leekhithnunna/inamigos-task1) • [Task 2](https://github.com/leekhithnunna/inamigos-task2) • [Task 3](https://github.com/leekhithnunna/inamigos-task3) • [Task 4](https://github.com/leekhithnunna/inamigos-task4) |
+
+</details>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=leekhithnunna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leekhithnunna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekhithnunna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=leekhithnunna&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+Open to collaborating on **AI/ML projects**, **research publications**, **NLP applications**, **speech processing**, **computer vision**, and **hackathons & open source**.
+
+<a href="mailto:leekhithnunna@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/leekhith-nunna-454037284">
+  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/leekhithnunna">
+  <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+*I enjoy turning research ideas into practical AI systems — from multimodal learning pipelines and NLP models to full-stack intelligent applications.*
+
+</div>
