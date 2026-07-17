@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Leekhith%20Nunna&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20NLP%20%26%20Speech%20%C2%B7%20Computer%20Vision%20%C2%B7%20Research&descAlignY=58&descSize=18"/>
+# 👋&nbsp; Hi, I'm Leekhith Nunna
+
+### AI / ML Engineer &nbsp;·&nbsp; NLP &amp; Speech Processing &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Research
+
+**B.Tech CSE (AI) @ Amrita School of Computing** &nbsp;|&nbsp; 6+ Research Publications &amp; Conference Papers &nbsp;|&nbsp; Building Full-Stack Intelligent Systems
 
 <br/>
-
-<a href="https://www.linkedin.com/in/leekhith-nunna-454037284">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+%40+Amrita+School+of+Computing;NLP+%7C+Speech+Processing+%7C+Computer+Vision;6%2B+Research+Publications+%26+Conference+Papers;Building+Full-Stack+Intelligent+Systems" alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 <a href="mailto:leekhithnunna@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -51,11 +49,13 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="about-me">🧑‍💻&nbsp; About Me</h2>
+![About Me](https://img.shields.io/badge/🧑‍💻_ABOUT_ME-6366F1?style=for-the-badge&logoColor=white)
 
-<br/>
+</div>
+
+<h2 id="about-me"></h2>
 
 I'm an undergraduate AI student building intelligent systems that solve real-world problems with Machine Learning, NLP, Computer Vision, and Speech Technologies. My work spans research, applied AI development, and decision-support systems across healthcare, education, finance, digital wellness, agriculture, and smart-city applications.
 
@@ -97,9 +97,13 @@ Amrita School of Computing, Bengaluru
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="research-areas">🔬&nbsp; Research Areas</h2>
+![Research Areas](https://img.shields.io/badge/🔬_RESEARCH_AREAS-6366F1?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h2 id="research-areas"></h2>
 
 <br/>
 
@@ -121,27 +125,35 @@ Amrita School of Computing, Bengaluru
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="publications--conference-presentations">📄&nbsp; Publications & Conference Presentations</h2>
+![Publications](https://img.shields.io/badge/📄_PUBLICATIONS_%26_CONFERENCE_PRESENTATIONS-6366F1?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h2 id="publications--conference-presentations"></h2>
 
 <br/>
 
 <table cellpadding="12" cellspacing="0" width="100%">
-<tr><th align="left">Title</th><th align="left">Venue</th></tr>
-<tr><td>📊&nbsp; Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring</td><td><b>IJCACI</b></td></tr>
-<tr><td>💧&nbsp; INSPECT: Smart Water Surveillance System for Critical Points in Food Industry Using IoT and ML</td><td><b>INSPECT</b></td></tr>
-<tr><td>🖼️&nbsp; Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management</td><td><b>IC4S</b></td></tr>
-<tr><td>🌸&nbsp; CycleSync+: Personalized Digital Wellness System</td><td><b>ICAISS 2026</b></td></tr>
-<tr><td>🧠&nbsp; Smooth Adaptive Synthetic Sampling for Naive Bayes-Based Airline Service Sentiment Classification</td><td><b>CML</b></td></tr>
-<tr><td>🤖&nbsp; Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses</td><td><b>IEEE CONECCT</b></td></tr>
+<tr><th align="left">Title</th><th align="left">Venue</th><th align="left">Link</th></tr>
+<tr><td>📊&nbsp; Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring</td><td><b>IJCACI</b></td><td>—</td></tr>
+<tr><td>💧&nbsp; Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning</td><td><b>IEEE INSPECT 2025</b></td><td><a href="https://doi.org/10.1109/INSPECT67393.2025.11350916">DOI ↗</a></td></tr>
+<tr><td>🖼️&nbsp; Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management</td><td><b>IC4S</b></td><td>—</td></tr>
+<tr><td>🌸&nbsp; CycleSync+: A Personalized Digital Wellness System for Cycle-Phase Detection, Nutrition Guidance, and Mood-Driven Recommendations</td><td><b>IEEE ICAISS 2026</b></td><td><a href="https://doi.org/10.1109/ICAISS68683.2026.11525693">DOI ↗</a></td></tr>
+<tr><td>🧠&nbsp; Smooth Adaptive Synthetic Sampling for Naive Bayes-Based Airline Service Sentiment Classification</td><td><b>CML</b></td><td>—</td></tr>
+<tr><td>🤖&nbsp; Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses</td><td><b>IEEE CONECCT</b></td><td>—</td></tr>
 </table>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="technical-skills">🛠️&nbsp; Technical Skills</h2>
+![Technical Skills](https://img.shields.io/badge/🛠️_TECHNICAL_SKILLS-6366F1?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h2 id="technical-skills"></h2>
 
 <br/>
 
@@ -151,7 +163,7 @@ Amrita School of Computing, Bengaluru
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css,mysql&perline=8" alt="language icons"/>
 
 <br/><br/>
 
@@ -159,7 +171,7 @@ Amrita School of Computing, Bengaluru
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&perline=8" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&perline=8" alt="AI/ML icons"/>
 
 <br/>
 
@@ -171,7 +183,7 @@ Amrita School of Computing, Bengaluru
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&perline=8" alt="framework icons"/>
 
 <br/>
 
@@ -183,15 +195,19 @@ Amrita School of Computing, Bengaluru
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,arduino&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,arduino&perline=8" alt="tool icons"/>
 
 </div>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="featured-projects">🚀&nbsp; Featured Projects</h2>
+![Featured Projects](https://img.shields.io/badge/🚀_FEATURED_PROJECTS-6366F1?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h2 id="featured-projects"></h2>
 
 <br/>
 
@@ -199,7 +215,7 @@ Amrita School of Computing, Bengaluru
 >
 > Full-stack platform (React, Node.js, MongoDB) with menstrual-cycle phase prediction, personalized wellness recommendations, explainable rule-based intelligence, and a trend analytics dashboard.
 >
-> `React` `Node.js` `MongoDB` &nbsp;|&nbsp; 📄 Presented at ICAISS 2026
+> `React` `Node.js` `MongoDB` &nbsp;|&nbsp; 📄 [Published at IEEE ICAISS 2026](https://doi.org/10.1109/ICAISS68683.2026.11525693)
 
 <br/>
 
@@ -316,38 +332,54 @@ Amrita School of Computing, Bengaluru
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="github-stats">📊&nbsp; GitHub Stats</h2>
+![GitHub Stats](https://img.shields.io/badge/📊_GITHUB_STATS-6366F1?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h2 id="github-stats"></h2>
 
 <br/>
 
 <div align="center">
 
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/leekhithnunna&label=Public%20Repos&query=%24.public_repos&color=6366F1&style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/leekhithnunna?affiliations=OWNER&style=for-the-badge&color=8B5CF6&label=Total%20Stars)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/leekhithnunna?style=for-the-badge&color=A78BFA&label=Followers)
+
+<br/><br/>
+
 <table cellpadding="20" cellspacing="0">
 <tr>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=leekhithnunna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" height="165"/></td>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=leekhithnunna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/></td>
 <td align="center"><img src="https://streak-stats.demolab.com/?user=leekhithnunna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/></td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekhithnunna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekhithnunna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=leekhithnunna&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=leekhithnunna&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 </div>
 
-> **Note:** these cards are served by shared free community APIs (Vercel/Cloudflare). If one shows a broken icon on first load, it's usually a temporary rate limit — refresh the page in a minute and it resolves itself.
+> **Note:** the four cards above are rendered live by free community APIs (`vercel.app`, `demolab.com`) — the badges just above them (Public Repos / Total Stars / Followers) are served by shields.io and always render, so the numbers stay visible even if a card below is temporarily slow to load. If a card shows a broken icon, it's a cold-start/rate-limit on that free service, not a mistake in the file — reloading the page after a minute fixes it.
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3"/>
+<div align="center">
 
-<h2 id="lets-connect">🤝&nbsp; Let's Connect</h2>
+![Contact](https://img.shields.io/badge/🤝_LET'S_CONNECT-6366F1?style=for-the-badge&logoColor=white)
+
+</div>
+
+<h2 id="lets-connect"></h2>
 
 <br/>
 
@@ -374,5 +406,3 @@ Open to collaborating on **AI/ML projects**, **research publications**, **NLP ap
 *I enjoy turning research ideas into practical AI systems — from multimodal learning pipelines and NLP models to full-stack intelligent applications.*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer"/>
