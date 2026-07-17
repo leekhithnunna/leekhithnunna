@@ -68,7 +68,7 @@ I'm an undergraduate AI student building intelligent systems that solve real-wor
 <td><b>B.Tech CSE (AI)</b></td>
 <td>Amrita Vishwa Vidyapeetham, Bengaluru</td>
 <td><code>2023–27</code></td>
-<td>6.81 CGPA</td>
+<td>—</td>
 </tr>
 <tr>
 <td><b>Intermediate</b></td>
