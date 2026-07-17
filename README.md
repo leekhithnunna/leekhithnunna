@@ -57,9 +57,32 @@ I'm an undergraduate AI student building intelligent systems that solve real-wor
 
 <h3>🎓&nbsp; Education</h3>
 
-<p><b>B.Tech Computer Science (Artificial Intelligence)</b></p>
-
-<p>Amrita School of Computing, Bengaluru<br/><code>2023 – 2027</code></p>
+<table width="100%">
+<tr>
+<th align="left">Qualification</th>
+<th align="left">Institution</th>
+<th align="left">Year</th>
+<th align="left">Score</th>
+</tr>
+<tr>
+<td><b>B.Tech CSE (AI)</b></td>
+<td>Amrita Vishwa Vidyapeetham, Bengaluru</td>
+<td><code>2023–27</code></td>
+<td>6.81 CGPA</td>
+</tr>
+<tr>
+<td><b>Intermediate</b></td>
+<td>Tirumala Jr. College</td>
+<td><code>2021–23</code></td>
+<td>81%</td>
+</tr>
+<tr>
+<td><b>10th Class (SSC)</b></td>
+<td>Tirumala Proactive School</td>
+<td><code>2020–21</code></td>
+<td>95%</td>
+</tr>
+</table>
 
 </td>
 <td width="50%" valign="top">
