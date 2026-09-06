@@ -1,48 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Leekhith%20Nunna&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20NLP%20%26%20Speech%20%7C%20Computer%20Vision%20%7C%20Research&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there%2C+I'm+Leekhith+Nunna+%F0%9F%91%8B;AI+%2F+ML+Engineer+%C2%B7+NLP+%26+Speech+%C2%B7+Computer+Vision" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+%40+Amrita+School+of+Computing;6%2B+Research+Publications+%26+Conference+Papers;Building+Full-Stack+Intelligent+Systems;NLP+%C2%B7+Speech+%C2%B7+Computer+Vision+%C2%B7+MLOps" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI)+%40+Amrita+School+of+Computing;6%2B+Research+Publications+%26+Conference+Papers;Building+Full-Stack+Intelligent+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
 <p>
-<a href="mailto:leekhithnunna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
+<a href="mailto:leekhithnunna@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/leekhith-nunna-454037284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
 <a href="https://github.com/leekhithnunna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&nbsp;
-<a href="https://leekhithnunna.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leekhithnunna.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=leekhithnunna&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/leekhithnunna?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=leekhithnunna&label=Profile+Views&color=FF6EC7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/leekhithnunna?label=Followers&style=for-the-badge&color=00E5FF&logo=github&logoColor=black" alt="Followers"/>
 </p>
 
 <br/>
 
 <p>
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-111827?style=for-the-badge" alt="About"/></a>
-<a href="#-research-areas"><img src="https://img.shields.io/badge/Research-111827?style=for-the-badge" alt="Research"/></a>
-<a href="#-publications--conference-presentations"><img src="https://img.shields.io/badge/Publications-111827?style=for-the-badge" alt="Publications"/></a>
-<a href="#%EF%B8%8F-technical-skills"><img src="https://img.shields.io/badge/Skills-111827?style=for-the-badge" alt="Skills"/></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge" alt="Projects"/></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-111827?style=for-the-badge" alt="Stats"/></a>
-<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge" alt="Contact"/></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-1a1b27?style=for-the-badge" alt="About"/></a>
+<a href="#-research-areas"><img src="https://img.shields.io/badge/Research-1a1b27?style=for-the-badge" alt="Research"/></a>
+<a href="#-publications--conference-presentations"><img src="https://img.shields.io/badge/Publications-1a1b27?style=for-the-badge" alt="Publications"/></a>
+<a href="#%EF%B8%8F-technical-skills"><img src="https://img.shields.io/badge/Skills-1a1b27?style=for-the-badge" alt="Skills"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1a1b27?style=for-the-badge" alt="Projects"/></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-1a1b27?style=for-the-badge" alt="Stats"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-1a1b27?style=for-the-badge" alt="Contact"/></a>
 </p>
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🧑‍💻&nbsp; About Me
 
@@ -81,86 +75,84 @@ I'm an undergraduate AI student building intelligent systems that solve real-wor
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🔬&nbsp; Research Areas
 
 <div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-6366F1?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/Speech%20Processing-6366F1?style=for-the-badge" alt="Speech"/>
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning-6366F1?style=for-the-badge" alt="ML/DL"/>
-</p>
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-00E5FF?style=for-the-badge&logoColor=black" alt="NLP"/>
+<img src="https://img.shields.io/badge/Speech%20Processing-00E5FF?style=for-the-badge&logoColor=black" alt="Speech"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning-00E5FF?style=for-the-badge&logoColor=black" alt="ML/DL"/>
 
-<p>
-<img src="https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=for-the-badge" alt="CV"/>
-<img src="https://img.shields.io/badge/Explainable%20AI%20%28XAI%29-8B5CF6?style=for-the-badge" alt="XAI"/>
-<img src="https://img.shields.io/badge/Multimodal%20Learning-8B5CF6?style=for-the-badge" alt="Multimodal"/>
-</p>
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/Educational%20AI-A78BFA?style=for-the-badge" alt="Educational AI"/>
-<img src="https://img.shields.io/badge/Healthcare%20AI-A78BFA?style=for-the-badge" alt="Healthcare AI"/>
-<img src="https://img.shields.io/badge/MLOps%20%26%20Distributed%20ML-A78BFA?style=for-the-badge" alt="MLOps"/>
-</p>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6EC7?style=for-the-badge&logoColor=black" alt="CV"/>
+<img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-FF6EC7?style=for-the-badge&logoColor=black" alt="XAI"/>
+<img src="https://img.shields.io/badge/Multimodal%20Learning-FF6EC7?style=for-the-badge&logoColor=black" alt="Multimodal"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Educational%20AI-FFD93D?style=for-the-badge&logoColor=black" alt="Educational AI"/>
+<img src="https://img.shields.io/badge/Healthcare%20AI-FFD93D?style=for-the-badge&logoColor=black" alt="Healthcare AI"/>
+<img src="https://img.shields.io/badge/MLOps%20%26%20Distributed%20ML-FFD93D?style=for-the-badge&logoColor=black" alt="MLOps"/>
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 📄&nbsp; Publications &amp; Conference Presentations
 
 | | Title | Venue | Link |
 |:---:|:---|:---|:---:|
-| 🌸 | CycleSync+: A Personalized Digital Wellness System for Cycle-Phase Detection, Nutrition Guidance, and Mood-Driven Recommendations | **IEEE ICAISS 2026** | [![DOI](https://img.shields.io/badge/DOI-blue?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICAISS68683.2026.11525693) |
-| 💧 | Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning | **IEEE INSPECT 2025** | [![DOI](https://img.shields.io/badge/DOI-blue?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/INSPECT67393.2025.11350916) |
+| 🌸 | CycleSync+: A Personalized Digital Wellness System for Cycle-Phase Detection, Nutrition Guidance, and Mood-Driven Recommendations | **IEEE ICAISS 2026** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)](https://doi.org/10.1109/ICAISS68683.2026.11525693) |
+| 💧 | Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning | **IEEE INSPECT 2025** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)](https://doi.org/10.1109/INSPECT67393.2025.11350916) |
 | 🤖 | Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses | **IEEE CONECCT** | — |
 | 📊 | Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring | **IJCACI** | — |
-| 🖼️ | Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management | **IC4S** | [![DOI](https://img.shields.io/badge/DOI-blue?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1007/978-3-032-22834-5_11) |
+| 🖼️ | Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management | **IC4S** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)](https://doi.org/10.1007/978-3-032-22834-5_11) |
 | 🧠 | Smooth Adaptive Synthetic Sampling for Naive Bayes-Based Airline Service Sentiment Classification | **CML** | — |
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🛠️&nbsp; Technical Skills
 
 <div align="center">
 
 #### Languages
-<p><img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css,mysql&perline=8" alt="Python, Java, C, TypeScript, JavaScript, HTML, CSS, MySQL"/></p>
+<img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css,mysql&perline=8" alt="Python, Java, C, TypeScript, JavaScript, HTML, CSS, MySQL"/>
 
 #### AI &amp; Machine Learning
-<p><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&perline=8" alt="Scikit-Learn, TensorFlow, OpenCV"/></p>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&perline=8" alt="Scikit-Learn, TensorFlow, OpenCV"/>
 
-<p>
-<img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=flat-square" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat-square" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Vision%20Transformers-6366F1?style=flat-square" alt="Vision Transformers"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NLP-00E5FF?style=flat-square&logoColor=black" alt="NLP"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-00E5FF?style=flat-square&logoColor=black" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00E5FF?style=flat-square&logoColor=black" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Vision%20Transformers-00E5FF?style=flat-square&logoColor=black" alt="Vision Transformers"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-</p>
 
 #### Frameworks &amp; Libraries
-<p><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&perline=8" alt="React, Node.js, MongoDB"/></p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&perline=8" alt="React, Node.js, MongoDB"/>
 
-<p>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
 <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square" alt="Gradio"/>
-</p>
 
 #### Tools &amp; Platforms
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,arduino&perline=8" alt="Git, GitHub, VS Code, MATLAB, Arduino"/></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,arduino&perline=8" alt="Git, GitHub, VS Code, MATLAB, Arduino"/>
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🚀&nbsp; Featured Projects
 
@@ -336,40 +328,41 @@ AI-powered synthetic data generator for personality traits using a Conditional V
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 📊&nbsp; GitHub Stats
 
 <div align="center">
 
-<p>
-<img src="https://img.shields.io/github/stars/leekhithnunna?affiliations=OWNER&style=for-the-badge&color=8B5CF6&label=Total%20Stars" alt="Total Stars"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/leekhithnunna?style=for-the-badge&color=A78BFA&label=Followers" alt="Followers"/>
-</p>
+<img src="https://img.shields.io/github/stars/leekhithnunna?affiliations=OWNER&style=for-the-badge&color=00E5FF&label=Total%20Stars&labelColor=1a1b27" alt="Total Stars"/>
+<img src="https://img.shields.io/github/followers/leekhithnunna?style=for-the-badge&color=FF6EC7&label=Followers&labelColor=1a1b27" alt="Followers"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=leekhithnunna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=00E5FF&icon_color=FF6EC7&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leekhithnunna&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00E5FF&ring=FF6EC7&fire=FF6EC7&currStreakLabel=00E5FF" alt="GitHub Streak" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekhithnunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00E5FF&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leekhithnunna&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00E5FF&line=FF6EC7&point=FFD93D&area=true" alt="Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=leekhithnunna&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=leekhithnunna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://streak-stats.demolab.com?user=leekhithnunna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekhithnunna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leekhithnunna&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=leekhithnunna&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
+<sub>⚠️ A few widgets above are served by community Vercel deployments that occasionally rate-limit or go offline. If any box appears blank, refresh the page — GitHub caches these images once they load successfully.</sub>
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🤝&nbsp; Let's Connect
 
@@ -379,20 +372,17 @@ AI-powered synthetic data generator for personality traits using a Conditional V
 
 <br/>
 
-<p>
-<a href="mailto:leekhithnunna@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
+<a href="mailto:leekhithnunna@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/leekhith-nunna-454037284"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
 <a href="https://github.com/leekhithnunna"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&nbsp;
-<a href="https://leekhithnunna.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+<a href="https://leekhithnunna.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
 
-<br/>
+<br/><br/>
 
-<p><i>I enjoy turning research ideas into practical AI systems — from multimodal learning pipelines and NLP models to full-stack intelligent applications.</i></p>
+<i>I enjoy turning research ideas into practical AI systems — from multimodal learning pipelines and NLP models to full-stack intelligent applications.</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
