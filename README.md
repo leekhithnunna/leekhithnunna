@@ -109,7 +109,7 @@ I'm an undergraduate AI student building intelligent systems that solve real-wor
 |:---:|:---|:---|:---:|
 | 🌸 | CycleSync+: A Personalized Digital Wellness System for Cycle-Phase Detection, Nutrition Guidance, and Mood-Driven Recommendations | **IEEE ICAISS 2026** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)](https://doi.org/10.1109/ICAISS68683.2026.11525693) |
 | 💧 | Smart Water Surveillance System for Critical Points in Food Industry Using IoT and Machine Learning | **IEEE INSPECT 2025** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)](https://doi.org/10.1109/INSPECT67393.2025.11350916) |
-| 🤖 | Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses | **IEEE CONECCT** | — |
+| 🤖 | Transformer-Based Semantic Evaluation of Telugu–English Code-Mixed Viva Responses | **IEEE CONECCT** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)]([https://doi.org/10.1109/INSPECT67393.2025.11350916](https://doi.org/10.1109/CONECCT68978.2026.11700752)) |
 | 📊 | Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring | **IJCACI** | — |
 | 🖼️ | Smart Image Cleanup Tool: An AI-Driven Solution for Efficient Image Management | **IC4S** | [![DOI](https://img.shields.io/badge/DOI-00E5FF?style=flat-square&logo=ieee&logoColor=black)](https://doi.org/10.1007/978-3-032-22834-5_11) |
 | 🧠 | Smooth Adaptive Synthetic Sampling for Naive Bayes-Based Airline Service Sentiment Classification | **CML** | — |
