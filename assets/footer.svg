@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF6EC7">
+        <animate attributeName="stop-color" values="#FF6EC7;#00E5FF;#FF6EC7" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#FF6EC7;#00E5FF" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,120 L0,120 Z" fill="url(#w)" opacity="0.35">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,120 L0,120 Z;M0,60 C200,100 400,20 600,60 C800,100 1000,20 1200,60 L1200,120 L0,120 Z;M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,120 L0,120 Z"/>
+  </path>
+  <text x="600" y="95" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="20" fill="#c9d1d9">Thanks for visiting · Let's build something intelligent</text>
+</svg>
