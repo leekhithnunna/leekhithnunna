@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:00E5FF,100:FF6EC7&height=240&section=header&text=Leekhith%20Nunna&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20NLP%20%26%20Speech%20%C2%B7%20Computer%20Vision&descAlign=50&descAlignY=60" width="100%" alt="Leekhith Nunna banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Leekhith Nunna banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hi+there%2C+I%27m+Leekhith+%F0%9F%91%8B;B.Tech+CSE+%28AI%29+%40+Amrita+Vishwa+Vidyapeetham;Full+Stack+Developer+Intern+%40+Nayoda;Building+intelligent+systems+that+solve+real-world+problems" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hi+there%2C+I%27m+Leekhith+%F0%9F%91%8B;B.Tech+CSE+%28AI%29+%40+Amrita+Vishwa+Vidyapeetham;%F0%9F%9F%A2+Open+to+work+%E2%80%94+looking+for+AI%2FML+and+Software+Engineering+roles;Building+intelligent+systems+that+solve+real-world+problems" alt="Animated introduction"/>
 
 <br/>
 
@@ -13,6 +13,7 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-3FB950?style=for-the-badge&logo=target&logoColor=white" alt="Open to work" title="I am actively looking for a job"/>
 <img src="https://komarev.com/ghpvc/?username=leekhithnunna&label=Profile+Views&color=FF6EC7&style=for-the-badge" alt="Profile views" title="Total profile views"/>
 <img src="https://img.shields.io/github/followers/leekhithnunna?label=Followers&style=for-the-badge&color=00E5FF&logo=github&logoColor=black" alt="Followers" title="GitHub followers"/>
 
@@ -30,7 +31,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🧑‍💻&nbsp; About Me
 
@@ -43,7 +44,7 @@
 <br/>
 
 📍 Bengaluru, India<br/>
-💼 Full Stack Developer Intern<br/>
+🟢 Open to work<br/>
 🎓 B.Tech CSE (AI), Final Year
 
 </td>
@@ -51,7 +52,7 @@
 
 I am an undergraduate AI student building intelligent systems that solve real-world problems with **Machine Learning, NLP, Computer Vision, and Speech Technologies**. My work spans academic research, applied AI development, and decision-support systems across healthcare, education, finance, digital wellness, agriculture, and smart cities.
 
-**Currently:** Full Stack Developer Intern at **Nayoda** (remote), alongside my final-year studies.
+**Status:** Open to work. I am actively looking for AI/ML and software engineering roles, including full-time and internship opportunities.
 
 **Focus areas:** Natural Language Processing · Deep Learning · Multimodal Learning · Explainable AI · MLOps
 
@@ -62,6 +63,12 @@ I am an undergraduate AI student building intelligent systems that solve real-wo
 | **B.Tech CSE (AI)** | Amrita Vishwa Vidyapeetham, School of Computing, Bengaluru | `2023–27` |
 | **Intermediate** | Tirumala Junior College | `2021–23` |
 | **10th Class (SSC)** | Tirumala Proactive School | `2020–21` |
+
+### 💼&nbsp; Experience
+
+| Role | Organization | Type |
+|:---|:---|:---|
+| **Full Stack Developer Intern** | Nayoda | Remote |
 
 </td>
 </tr>
@@ -79,7 +86,7 @@ I am an undergraduate AI student building intelligent systems that solve real-wo
 <img src="https://img.shields.io/badge/ACM--W-Member-0085CA?style=flat-square" alt="ACM-W member" title="ACM-W Member"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🔬&nbsp; Research Areas
 
@@ -105,7 +112,7 @@ I am an undergraduate AI student building intelligent systems that solve real-wo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 📄&nbsp; Publications
 
@@ -118,7 +125,7 @@ I am an undergraduate AI student building intelligent systems that solve real-wo
 | 📊 | Forecasting Regional Climate Vulnerability through Machine Learning and Weighted Risk Scoring | **IJCACI** | — |
 | 🧠 | Smooth Adaptive Synthetic Sampling for Naive Bayes-Based Airline Service Sentiment Classification | **CML** | — |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🛠️&nbsp; Technical Skills
 
@@ -154,7 +161,7 @@ I am an undergraduate AI student building intelligent systems that solve real-wo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🚀&nbsp; Featured Projects
 
@@ -330,7 +337,7 @@ AI-powered synthetic data generator for personality traits using a Conditional V
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 📊&nbsp; GitHub Stats
 
@@ -361,7 +368,7 @@ AI-powered synthetic data generator for personality traits using a Conditional V
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 🤝&nbsp; Let's Connect
 
@@ -369,7 +376,9 @@ AI-powered synthetic data generator for personality traits using a Conditional V
 
 I enjoy turning research ideas into practical AI systems, from multimodal learning pipelines and NLP models to full-stack intelligent applications.
 
-**Open to:** AI/ML projects · research publications · NLP applications · speech processing · computer vision · hackathons and open source
+**🟢 Open to work:** AI/ML engineering, NLP, computer vision, and software engineering roles, including full-time and internship opportunities.
+
+**Also open to:** research collaborations · speech processing projects · hackathons and open source
 
 <br/>
 
@@ -380,6 +389,6 @@ I enjoy turning research ideas into practical AI systems, from multimodal learni
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:00E5FF,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
